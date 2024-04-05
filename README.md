@@ -45,7 +45,3 @@ npm start
 2. Access SnapURL at http://localhost:8000.
 
 3. Create an account and start shortening URLs.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
